@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: API documentation
+    url: https://www.transcriptdock.com/docs
+    about: Endpoints, errors, limits and the OpenAPI spec.
+  - name: Contact and support
+    url: https://www.transcriptdock.com/docs/contact
+    about: Account, billing or security questions. You can also email transcriptdock@volods.com.
