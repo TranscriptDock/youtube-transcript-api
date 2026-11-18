@@ -454,11 +454,11 @@ Plain HTTP works everywhere, and every example in this repo uses either `fetch` 
 | Ruby | `transcriptdock` gem ([source](https://github.com/TranscriptDock/transcriptdock-ruby)) | Published |
 | PHP | `transcriptdock/transcriptdock` on Packagist ([source](https://github.com/TranscriptDock/transcriptdock-php)) | Published |
 | .NET | `TranscriptDock` on NuGet ([source](https://github.com/TranscriptDock/transcriptdock-dotnet)) | Published |
-| JavaScript and TypeScript | `transcriptdock` on npm ([source](https://github.com/TranscriptDock/transcriptdock-js)) | Coming soon |
-| Dart and Flutter | `transcriptdock` on pub.dev ([source](https://github.com/TranscriptDock/transcriptdock-dart)) | Coming soon |
+| JavaScript and TypeScript | [`transcriptdock`](https://www.npmjs.com/package/transcriptdock) on npm ([source](https://github.com/TranscriptDock/transcriptdock-js)) | Published |
+| Dart and Flutter | [`transcriptdock`](https://pub.dev/packages/transcriptdock) on pub.dev ([source](https://github.com/TranscriptDock/transcriptdock-dart)) | Published |
 | Java | `com.transcriptdock:transcriptdock` ([source](https://github.com/TranscriptDock/transcriptdock-java)) | Coming soon |
 | Rust | `transcriptdock` on crates.io ([source](https://github.com/TranscriptDock/transcriptdock-rust)) | Coming soon |
-| Swift | Swift Package Manager ([source](https://github.com/TranscriptDock/transcriptdock-swift)) | Coming soon |
+| Swift | Swift Package Manager, `from: "0.1.0"` ([source](https://github.com/TranscriptDock/transcriptdock-swift)) | Published |
 
 Generating your own client? Start from the [OpenAPI 3.1 spec](https://www.transcriptdock.com/docs/openapi.yaml) ([repo](https://github.com/TranscriptDock/transcriptdock-openapi)). No code at all: the [n8n node](https://github.com/TranscriptDock/n8n-nodes-transcriptdock) (`n8n-nodes-transcriptdock`) and the [Apify Actor](https://github.com/TranscriptDock/transcriptdock-apify).
 
